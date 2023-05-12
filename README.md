@@ -11,5 +11,7 @@ First, the folder '/DCA/model/' contains the above model's Pytorch implementatio
 
 Second, the folder '/DCA/utils/' contails the code for dataset pre-processing, Dataset Class definition, dataset processing for model input,  evaluation metrics' defination, and etc. 
 
-Third, the folder '/DCA/tune_log/hypers' contains the optimal hyper-parameter setting for each SOTA SBRS on selected datasets.
+Third, the folder '/DCA/tune_log/hypers' contains the optimal hyper-parameter setting for each SOTA SBRS on selected datasets. The dataset information is listed in '/DCA/tune_log/readme.txt'.
+
+
 
