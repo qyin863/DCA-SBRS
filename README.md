@@ -13,5 +13,10 @@ Second, the folder '/DCA/utils/' contails the code for dataset pre-processing, D
 
 Third, the folder '/DCA/tune_log/hypers' contains the optimal hyper-parameter setting for each SOTA SBRS on selected datasets. The dataset information is listed in '/DCA/tune_log/readme.txt'.
 
+Run besttest.py file to train and test the model.
+```bash
+python python besttest.py --model=dca_narm --dataset=tmall
+```
+
 
 
