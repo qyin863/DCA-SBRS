@@ -9,8 +9,7 @@ CAT_COLS = {
 }
 
 MAX_LEN = 20
-#DATA_PATH = './dataset/'
-DATA_PATH = '/nfsshare/home/qyin/seren-main/dataset/'
+DATA_PATH = './dataset/'
 TUNE_PATH = './tune_log/'
 
 def get_logger(file_name):
